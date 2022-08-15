@@ -1,4 +1,3 @@
-<p>
 ETAPE D'INSTALLATION
 A-Installer Wampserver version 3.2.3 ou plus, il faut utiliser la version 7.4 ou plus du PHP.
 
@@ -17,4 +16,3 @@ D-Le projet se lance sur le navigateur web avec cette lien : http://localhost/de
 
 E-Mettre comme passerelle du point d'accès ou serveur l'adresse du site
  N.B: La confirmation par email require une connexion internet
-</p>
